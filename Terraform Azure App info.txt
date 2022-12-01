@@ -1,0 +1,4 @@
+Service Principal: terraform
+secret name: secret
+Secret ID: 462db226-24b5-48e9-8049-9b59743f7c88
+Secret Value: J~w8Q~ILCtnlgIvwVj5f59lZhNd8gRmJ37Up7cVI
